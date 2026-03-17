@@ -9,5 +9,8 @@ int main(void)
 	printf("third changed");
 
 	printf("I have to make change");
+
+	int clovo;
+	scanf("%d", &clovo);
 	return 0;
 }
