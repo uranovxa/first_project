@@ -1,0 +1,3 @@
+*.log
+logs/*
+!rar_log.log
